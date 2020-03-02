@@ -73,7 +73,7 @@
 			etspi-drdyPin = <&gpa2 4 0x00>;
 			etspi-ldoPin = <&gpd4 5 0x00>;
 			etspi-chipid = "ET516";
-			etspi-orient = <1>;
+			etspi-orient = <0>;
 			etspi-ldocontrol = <1>;
 			controller-data {
 				samsung,spi-feedback-delay = <0>;
